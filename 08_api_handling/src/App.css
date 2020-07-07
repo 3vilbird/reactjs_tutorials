@@ -1,0 +1,10 @@
+.App {
+  min-height: 100vh;
+  min-width: 100vh;
+}
+.card {
+  margin-top: 125px;
+}
+img {
+  margin-top: -80px;
+}
